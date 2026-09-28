@@ -1,0 +1,6 @@
+{
+  "name": "BITSAT Prep",
+  "description": "Comprehensive BITSAT preparation app with AI doubt solver, chapter notes, flashcards, full-length mock tests, and weak-area analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
